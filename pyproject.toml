@@ -1,6 +1,6 @@
 [project]
 name = "Indonesia_earthquake_live_report"
-version = "0.0.1"
+version = "0.0.2"
 authors = [
   { name="Antonius Sawung Wulung", email="sawungwulung7@gmail.com" },
 ]
